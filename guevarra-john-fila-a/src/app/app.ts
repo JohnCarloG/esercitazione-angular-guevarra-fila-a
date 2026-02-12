@@ -8,5 +8,5 @@ import { SecondComponent } from './second-component/second-component';
   styleUrl: './app.css'
 })
 export class App {
-  protected readonly title = signal('guevarra-john-fila-a');
+  guevarra = "app"
 }
